@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32616.157
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GraphTheory-Project1-Bai2", "Bai2\GraphTheory-Project1-Bai2.csproj", "{482D4CEC-C4E2-4C94-A3D5-BB84C84E6CEA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{482D4CEC-C4E2-4C94-A3D5-BB84C84E6CEA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{482D4CEC-C4E2-4C94-A3D5-BB84C84E6CEA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{482D4CEC-C4E2-4C94-A3D5-BB84C84E6CEA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{482D4CEC-C4E2-4C94-A3D5-BB84C84E6CEA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2B2ED280-2AC0-4415-83B0-229146E3C9E9}
+	EndGlobalSection
+EndGlobal
